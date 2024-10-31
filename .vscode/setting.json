@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.format": true,
+    "source.fixAll.eslint": true
+  }
+}
